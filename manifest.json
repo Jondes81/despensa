@@ -1,0 +1,17 @@
+{
+  "name": "Despensa Certa",
+  "short_name": "Despensa Certa",
+  "description": "Despensa Certa é o seu assistente inteligente para controlar o estoque da casa, acompanhar a validade dos alimentos e economizar no supermercado. Escaneie códigos de barras, ajuste quantidades em um toque, gere listas de compras automáticas e acompanhe o histórico de preços para não gastar nada além do necessário.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
